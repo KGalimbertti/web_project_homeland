@@ -1,8 +1,10 @@
 .header {
+  display: flex;
+  justify-content: center;
 }
 
 .header__logo {
-}
-
-.header__logo-text {
+  width: 32;
+  height: 32;
+  left: 111px;
 }
