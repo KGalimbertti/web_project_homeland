@@ -1,20 +1,13 @@
 .footer {
-  width: 166;
-  height: 16;
-  top: 1843px;
-  left: 556px;
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+  font-family: "inter", sans-serif;
 }
 
 .footer__copyright {
-  width: 166;
-  height: 16;
-  top: 1843px;
-  left: 556px;
-  font-family: Inter;
+  width: 166px;
   font-weight: 400;
   font-size: 14px;
   line-height: 16px;
-  letter-spacing: 0%;
-  text-align: right;
-  color: #ffffff;
 }
