@@ -3,6 +3,7 @@
   flex-direction: column;
   color: #ffffff;
   font-family: "inter", sans-serif;
+  align-items: center;
 }
 
 .footer__copyright {
