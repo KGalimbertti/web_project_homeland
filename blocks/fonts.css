@@ -1,4 +1,19 @@
 @font-face {
   font-family: "inter", sans-serif;
-  src: url(https://rsms.me/inter/inter.css);
+  src: url("../vendor/fonts/Inter-Bold.ttf");
+}
+
+@font-face {
+  font-family: "inter", sans-serif;
+  src: url("../vendor/fonts/Inter-Regular.ttf");
+}
+
+@font-face {
+  font-family: "inter", sans-serif;
+  src: url("../vendor/fonts/Inter-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "inter", sans-serif;
+  src: url("../vendor/fonts/InterDisplay-Bold.ttf");
 }
