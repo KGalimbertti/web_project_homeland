@@ -10,6 +10,7 @@ HTML5
 CSS Avançado
 Figma (para o design e prototipagem)
 GitHub Pages ([para hospedagem do site](https://kgalimbertti.github.io/web_project_homeland/))
+Responsividade
 Grid e Gradient
 
 Observações
